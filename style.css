@@ -1,0 +1,9 @@
+body{
+	color: blue;
+	background-color: silver;
+	font-family: helvetica;
+}
+img {float: left;}
+p{
+	clear:left;
+}

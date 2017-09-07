@@ -1,0 +1,83 @@
+body {
+background-color: white;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, li{
+
+  margin: 0;
+
+  padding: 0;
+
+  border: 0;
+
+  outline: 0;
+
+  font-size: 100%;
+
+  background: transparent; }
+
+h1{ font-family: cursive;
+	font-style: oblique;font-size: 60px;
+}
+h2{
+	font-family: fantasy;
+	font-style: initial;}
+
+p{font-family: comic;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    outline-color: white;
+    background-color:#625850;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+}
+.active {
+    background-color: #625850;
+}
+
+#ataglance {float: left;}
+
+#what {
+  float: left;
+  width: 45%;
+}
+
+#what1 {
+  float: left;
+  width: 45%;
+  line-height: 40px;
+  padding-left: 5%;
+}
+
+.container{
+  overflow: hidden;
+}
+#why {
+  float: left;
+  width: 45%;
+}
+#why1 {
+  float: left;
+width:45%;
+line-height: 40px;
+padding-left: 5%;}
+
+#me2
